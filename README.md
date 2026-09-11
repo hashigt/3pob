@@ -1,4 +1,4 @@
 # 3pob
 Lorenzo Trindade<br> 
 Rafael Vieira<br> 
-Yan
+Yan Bento Monteiro
